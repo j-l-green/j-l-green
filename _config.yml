@@ -11,7 +11,7 @@ locale                   : "en-GB"
 timezone                 : "Europe/London"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Lily Green"
-title_separator          : "-"
+title_separator          : "default"
 name                     : &name "Lily Green"
 description              : &description "Lily Green's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://j-l-green.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
