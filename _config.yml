@@ -119,8 +119,8 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: "/images/profile.jpg"  # or leave blank if you don’t have a header image
-og_description: "J. L. Green — Researcher at [Your University Name]"
+og_image: ""  # or leave blank if you don’t have a header image
+og_description: "J. L. Green — DPhil Candidate at The University of Oxford"
 
 # For specifying social profiles
 social:
@@ -284,7 +284,6 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
